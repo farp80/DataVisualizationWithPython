@@ -1,2 +1,2 @@
 #DataVisualizationWithPython
-1. Install Anaconda or have PyCharm Professional. PyCharm Community Edition 2019 doe snot have Junyper Notebooks.
+1. Install Anaconda or PyCharm Professional (Trial period is 1 month). PyCharm Community Edition 2019 does not have Junyper Notebooks.
